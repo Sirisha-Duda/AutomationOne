@@ -1,2 +1,20 @@
 22:56:15.531 [main] INFO  testCases.TC002_LoginTest - /*******Starting TC002_LoginTest******
 22:56:17.383 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_loginTest**********
+20:35:51.597 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prasa\eclipse-workspace\AutomationOne\master.xml"
+20:35:56.718 [main] INFO  testCases.TC001_AccountRegTest - *******Starting TC001_AccountRegTest**********
+20:35:57.175 [main] INFO  testCases.TC001_AccountRegTest - Clicked on myaccount link
+20:35:57.509 [main] INFO  testCases.TC001_AccountRegTest - clicked on register link
+20:35:57.516 [main] INFO  testCases.TC001_AccountRegTest - providing customer details
+20:36:01.332 [main] INFO  testCases.TC001_AccountRegTest - validating expected message....
+20:36:01.402 [main] INFO  testCases.TC001_AccountRegTest - *****Finished TC001_AccountRegTest********
+20:36:05.943 [main] INFO  testCases.TC002_LoginTest - /*******Starting TC002_LoginTest******
+20:36:07.838 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_loginTest**********
+20:39:44.501 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prasa\eclipse-workspace\AutomationOne\master.xml"
+20:39:48.454 [main] INFO  testCases.TC001_AccountRegTest - *******Starting TC001_AccountRegTest**********
+20:39:48.949 [main] INFO  testCases.TC001_AccountRegTest - Clicked on myaccount link
+20:39:49.342 [main] INFO  testCases.TC001_AccountRegTest - clicked on register link
+20:39:49.345 [main] INFO  testCases.TC001_AccountRegTest - providing customer details
+20:39:53.004 [main] INFO  testCases.TC001_AccountRegTest - validating expected message....
+20:39:53.083 [main] INFO  testCases.TC001_AccountRegTest - *****Finished TC001_AccountRegTest********
+20:39:57.906 [main] INFO  testCases.TC002_LoginTest - /*******Starting TC002_LoginTest******
+20:39:59.620 [main] INFO  testCases.TC002_LoginTest - *******Finished TC_002_loginTest**********
